@@ -1,6 +1,13 @@
 # CommonLatex
 Common Latex Snippets
 
+
+#install
+
+```
+espanso install common-latex
+```
+
 > \ + funcrion short + space for activatyion.
 
 *\fr* goes into *\frac{}{}*
